@@ -16,11 +16,11 @@ function divide(a, b){
 }
 //5
 function inc(n){
-  return n ++
+  return n + 1
 }
 //6
 function dec(n){
-  return n --
+  return n - 1
 }
 //7
 function makeInt(n){
