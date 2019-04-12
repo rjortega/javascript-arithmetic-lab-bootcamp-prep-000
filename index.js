@@ -1,0 +1,33 @@
+//1
+function add(a, b){
+  return a + b
+}
+//2
+function substract(a, b){
+  return a - b
+}
+//3
+function multiply(a, b){
+  return a * b
+}
+//4
+function divide(a, b){
+  return a / b
+}
+//5
+function inc(n){
+  return n++
+}
+//6
+function dec(n){
+  n--
+}
+//7
+function makeInt(n){
+  return parseInt(n, 10)
+}
+//8
+function preserveDecimal(n){
+  return parseFloat(n)
+}
+]
